@@ -1,0 +1,38 @@
+{
+  "name": "Jungle Club #15",
+  "symbol": "JC",
+  "description": "Most Exclusive Solana Club",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "external_url": "",
+  "edition": 15,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Dumbbell",
+      "value": "Saphire"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AaLmx5scukwxAsHYDLXPBURjGBRbh1GmwYek8Vn9uX4c",
+        "share": 100
+      }
+    ]
+  }
+}
